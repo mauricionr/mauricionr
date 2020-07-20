@@ -1,5 +1,7 @@
 ### Hello world 👋
 
+![Nice](https://media.giphy.com/media/yyZRSvISN1vvW/giphy.gif)
+
 <!--
 **mauricionr/mauricionr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
