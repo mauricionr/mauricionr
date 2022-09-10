@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-![Nice](https://media.giphy.com/media/yyZRSvISN1vvW/giphy.gif)
+![anywhereoffice](https://user-images.githubusercontent.com/2263551/189505314-350659e0-8e8f-476f-9b02-669d9b6a47eb.jpeg)
 
 <!--
 **mauricionr/mauricionr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
